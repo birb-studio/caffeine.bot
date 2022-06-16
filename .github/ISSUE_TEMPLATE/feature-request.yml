@@ -2,49 +2,49 @@ name: 📡 Feature Request
 description: suggest new ideas, features or commands
 body:
   - type: markdown
-     attributes:
-       value: |
+    attributes:
+      value: |
          ## Welcome 📡
          Thank you for taking this time to request/suggest a new feature! ☺️
     
          Please try to include add much detail as possible; it'll help us respond faster and makes sure we implement the feature exactly as you envision it.
-    
-    - type: textarea
-      id: summary
-      attributes:
-        label: Issue Summary
-        description: summarise what you want added in as little detail as possible
-      validations:
-        required: true
 
-    - type: input
-      id: details
-      attributes:
-        label: Detailed Description
-        description: Now, do the exact opposite of what you did before. Explain your issue in as much detail as possible.
-      validations:
-        required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Issue Summary
+      description: summarise what you want added in as little detail as possible
+    validations:
+      required: true
 
-    - type: input
-      id: whyadd
-      attributes:
-        label: Why your feature is necessary
-        description: Why do we need your feature, and what it will provide for the project
-      validations:
-        required: true
+  - type: input
+    id: details
+    attributes:
+      label: Detailed Description
+      description: Now, do the exact opposite of what you did before. Explain your issue in as much detail as possible.
+    validations:
+      required: true
 
-    - type: textarea
-      id: link
-      attributes:
-        label: Links
-        description: Provide any documentation links that would help your feature get added.
-      validations:
-        required: true
+  - type: input
+    id: whyadd
+    attributes:
+      label: Why your feature is necessary
+      description: Why do we need your feature, and what it will provide for the project
+    validations:
+      required: true
 
-    - type: textarea
+  - type: textarea
+    id: link
+    attributes:
+      label: Links
+      description: Provide any documentation links that would help your feature get added.
+    validations:
+      required: true
+
+  - type: textarea
     id: notes
     attributes:
-      label:
-      description:
+      label: Anything else?
+      description: Use this section for any further notes/details.
     validations:
       required: true
