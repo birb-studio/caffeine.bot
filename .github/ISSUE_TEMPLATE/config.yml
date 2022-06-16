@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🪴 Discord
+    url: https://discord.gg/bqERWGhAKQ
+    about: Join the community discord for support and discussion
+  - name: 📖 Documentation
+    url: https://docs.birb.studio/
+    about: Tutorials & reference guides for themes, the API and more
+    
