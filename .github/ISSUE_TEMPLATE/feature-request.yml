@@ -2,12 +2,12 @@ name: 📡 Feature Request
 description: suggest new ideas, features or commands
 body:
   - type: markdown
-    attributes:
-      value: |
-    ## Welcome 📡
-    Thank you for taking this time to request/suggest a new feature! ☺️
+  attributes:
+    value: |
+      ## Welcome 📡
+      Thank you for taking this time to request/suggest a new feature! ☺️
     
-    Please try to include add much detail as possible; it'll help us respond faster and makes sure we implement the feature exactly as you envision it.
+      Please try to include add much detail as possible; it'll help us respond faster and makes sure we implement the feature exactly as you envision it.
     
     - type: textarea
       id: summary
