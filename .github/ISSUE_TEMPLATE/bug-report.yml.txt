@@ -28,7 +28,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: Ghost Version
+      label: Bot Version
     validations:
       required: true
   - type: input
@@ -40,26 +40,15 @@ body:
   - type: input
     id: install
     attributes:
-      label: How did you install Ghost?
+      label: How did you install Caffeine?
       description: Provide details of your host & operating system
-    validations:
-      required: true
-  - type: dropdown
-    id: database
-    attributes:
-      label: Database type
-      options:
-         - MySQL 5.7
-         - MySQL 8
-         - SQLite3
-         - Other
     validations:
       required: true
   - type: input
     id: browsers
     attributes:
-      label: Browser & OS version
-      description: Include this for frontend bugs
+      label: Discord & OS version
+      description: Include this for external bugs
   - type: textarea
     id: logs
     attributes:
@@ -70,7 +59,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://ghost.org/conduct)
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/birb-studio/caffeine.bot/CODE_OF_CONDUCT.mdt
       options:
         - label: I agree to be friendly and polite to people in this repository
           required: true
