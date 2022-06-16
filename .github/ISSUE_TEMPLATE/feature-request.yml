@@ -9,7 +9,7 @@ body:
     
          Please try to include add much detail as possible; it'll help us respond faster and makes sure we implement the feature exactly as you envision it.
 
-  - type: textarea
+  - type: input
     id: summary
     attributes:
       label: Issue Summary
@@ -17,7 +17,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: details
     attributes:
       label: Detailed Description
@@ -25,7 +25,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: whyadd
     attributes:
       label: Why your feature is necessary
@@ -33,7 +33,7 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: input
     id: link
     attributes:
       label: Links
@@ -41,7 +41,7 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: input
     id: notes
     attributes:
       label: Anything else?
