@@ -2,8 +2,8 @@ name: 📡 Feature Request
 description: suggest new ideas, features or commands
 body:
   - type: markdown
-  attributes:
-    value: |
+    attributes:
+      value: |
     ## Welcome 📡
     Thank you for taking this time to request/suggest a new feature! ☺️
     
