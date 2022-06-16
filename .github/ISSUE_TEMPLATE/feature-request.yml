@@ -1,7 +1,7 @@
 name: 📡 Feature Request
 description: suggest new ideas, features or commands
 body:
-   - type: markdown
+  - type: markdown
      attributes:
        value: |
          ## Welcome 📡
@@ -9,7 +9,7 @@ body:
     
          Please try to include add much detail as possible; it'll help us respond faster and makes sure we implement the feature exactly as you envision it.
     
-     - type: textarea
+    - type: textarea
       id: summary
       attributes:
         label: Issue Summary
@@ -17,7 +17,7 @@ body:
       validations:
         required: true
 
-     - type: input
+    - type: input
       id: details
       attributes:
         label: Detailed Description
