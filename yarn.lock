@@ -105,10 +105,10 @@
   "resolved" "https://registry.npmjs.org/discord-api-types/-/discord-api-types-0.33.5.tgz"
   "version" "0.33.5"
 
-"discord-api-types@0.34.0":
-  "integrity" "sha512-xwlhwiLZ11+8+ou1JlPOLJkwpu8qklm+aUm9JF06YC59fSo4CD7gQqsbUBxqevqheLx+WhRgJOHjDbjI0Q+Ecw=="
-  "resolved" "https://registry.npmjs.org/discord-api-types/-/discord-api-types-0.34.0.tgz"
-  "version" "0.34.0"
+"discord-api-types@0.36.3":
+  "integrity" "sha512-bz/NDyG0KBo/tY14vSkrwQ/n3HKPf87a0WFW/1M9+tXYK+vp5Z5EksawfCWo2zkAc6o7CClc0eff1Pjrqznlwg=="
+  "resolved" "https://registry.npmjs.org/discord-api-types/-/discord-api-types-0.36.3.tgz"
+  "version" "0.36.3"
 
 "discord.js@13.8.0":
   "integrity" "sha512-EPAA/2VLycYN5wSzavqa4iJ6qj3UtQFtHw5TH/60Fj29ymfEsCQVn//o1mTpwDxzwb+rPIrWhkxKIGGnjfv0Iw=="
